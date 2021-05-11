@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Jullyane and I'm a web developer student at [Generation Brasil](https://brazil.generation.org/). ✨
+My name is Jullyane and I'm a web development student at [Generation Brasil](https://brazil.generation.org/). ✨
 
 ## 📈 GitHub Stats
 

@@ -3,7 +3,9 @@
 My name is Jullyane and I'm a web development student at [Generation Brasil](https://brazil.generation.org/). ✨
 
 ## 📈 GitHub Stats
-
+<!--
+![Metrics](https://github.com/jullyanedemetrio/jullyanedemetrio/blob/main/github-metrics.svg) 
+-->
 [![Jullyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jullyanedemetrio&hide=prs,issues&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jullyanedemetrio&layout=compact&card_width=445&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -12,6 +12,8 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           # ... other options
           base: header, activity, community              # Only display "header", "activity" and "community" sections
           repositories: 100                              # Query only last 100 repositories
@@ -21,7 +23,7 @@ jobs:
           # Music Metrics
           plugin_music: yes
           plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: https://******** # Use extracted playlist link
+          plugin_music_playlist: h                 # Use extracted playlist link
                                                   #   (plugin_music_provider and plugin_music_mode will be set automatically)
           #Most Used Languages
           plugin_languages: yes
@@ -35,5 +37,5 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           config_timezone: America/Sao_Paulo # Set timezone
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          
 
